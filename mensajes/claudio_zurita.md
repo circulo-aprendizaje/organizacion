@@ -1,0 +1,14 @@
+Mi nombre es Claudio Zurita, tengo 30 años, soy de Santiago del Estero y actualmente vivo en la provincia de Córdoba.
+En el 2014 empecé a estudiar Analista en Sistemas. Empezamos a aprender a programar con Visual Basic. En el trayecto, fui descubriendo lo mágico que era poder dar órdenes al pc y que esta resuelva o haga exactamente lo que le dijimos. Al transcurrir el tiempo me di cuenta que mi inclinación era exclusivamente por la programación. El simple hecho de poder crear lo que pensaba, me volaba la cabeza…
+Mi fascinación por este mundo es muy grande, de hecho, lo único que hago es buscar recursos para mejorar lo que con el tiempo me doy cuenta que me falta.
+Muchas veces tengo complicaciones para entender algunas cosas porque no domino el inglés y eso se convierte una traba para mí. Por eso me parece muy buena la idea del Circulo de aprendizaje, poder aprender entre diferentes personas con distintos tipos de conocimientos, algunos más experimentados que otros, otros que recién empiezan, en fin… creo que así entre todos podemos nutrirnos y aprender. Algunos quieren compartir conocimiento y otros recibirlo.
+
+Con respecto al círculo y teniendo en cuenta los puntos:
+Me gustaría participar como estudiante. No es que no quiera enseñar, me encanta… pero creo que primero tengo que aprender y tener en claro muchas cosas para luego poder impartir conocimiento.
+En cuanto a lo que me gustaría aprender. Lo primero que busco es aprender muy bien el lenguaje. Quiero conocer su funcionamiento, sus características, el correcto uso de sus herramientas. También me gustaría aprender mejores prácticas, algunos paradigmas (Funcional en primera instancia) patrones de diseño, etc. En fin… tener un conocimiento bastante amplio para poder crear mis propias librerías o mis propias herramientas con alta performance.
+También me gustaría aprender React, Angular y NodeJS.
+En la práctica.  Pienso que al ser un grupo en el cual hay gente con intereses comunes, sería bueno hacer workshops o proyectos con el fin de aprender a desarrollar colaborativamente, aprender nuevas tecnologías y mejorar la forma en la que programamos.
+La interacción con el grupo. Me imagino comunicándome con mis compañeros por hangouts, hablando sobre tecnología o porque tal framework funciona de tal manera o porque me da este error al hacer cierta acción… un ida y vuelta de conocimiento. 
+En fin, lo veo como un grupo de desarrollo con gran potencial en el que vamos a ir aprendiendo de todos y enseñándonos entre todos.
+Horarios. Yo puedo participar o comunicarme en los horarios de la tarde. Entre 18:30 a 22:00. Esa es la franja horaria que yo puedo disponer. La forma sería remota ya que vivo en Cordoba y obviamente no voy a poder asistir a las reuniones ya que todas son en Buenos Aires. Pero bien que me gustaría.
+Disponibilidad semanal. Entre 12 y 20  hs semanales
