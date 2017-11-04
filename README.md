@@ -66,4 +66,5 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 | [Pablo Cazes](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/pablo_cazes.md) | React y Devops tools | 3-4hs |
 | [Pablo Mescher](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/pablo_mescher.md) | Js, TS y Node  | 2hs |
 | [Lorenzo Palmes](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/lpalmes.md) | FP | NA |
+| [Angel Java Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_aprendiz.md) | React | 4-6hs |
 
