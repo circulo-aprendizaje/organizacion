@@ -1,4 +1,12 @@
 # Círculo de aprendizaje
+## Introducción
+Bajo la premisa de que hay dejar las cosas mejor de como las encontraste y que no sabes algo realmente hasta que no lo podes explicar, la idea fundamental del círculo de aprendizaje es que, para aprender hay que enseñar.
+
+En las reuniones del grupo, el mentor puede explicar ciertos conceptos y asignar como tarea trabajos de investigación teóricos que deben tener el formato de blog, charla, workshops o videos cortos para ser publicados bajo la licencia Creative Commons. De esta manera el estudiante asienta los conocimientos y la comunidad obtiene un nuevo recurso en su idioma de donde aprender.
+
+Por otro lado, para aprender también se necesita practicar, por lo que es deseable que el grupo tenga uno o más proyectos prácticos, individuales o grupales y con temática libre. Estos proyectos pueden ser creados por el grupo o pueden ser aportes a proyectos OSS existentes que tengan una temática relevante al tema enseñado.
+
+El contenido teórico debería ser "curado" por el/los mentores y luego subido con una cuenta compartida a medium, youtube o github (según el tipo de contenido) y bajo la licencia Creative Commons. Los proyectos, por otro lado, pueden ser autogestionados y con la licencia que se desee.
 
 ## Cómo participar
 Podés participar en algún círculo activo o crear uno nuevo! A continuación se encuentra la información necesaria para poder crear las presentaciones como futuros mentores o participantes.
@@ -39,9 +47,11 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 ## Mensajes
 
 ### Propuestas de círculos
-- [Typescript y Programación Funcional (mentor Hernan Rajchert)](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/hernan_rajchert.md)
-- [Machine Learning (mentor Angel Java Lopez)](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_mentor.md)
-- React (se busca mentor)
+| Mentor  | Tema Propuesto | Disponibilidad Semanal en hs |
+| ------------- | ------------- | ------------- |
+| [Hernan Rajchert](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/hernan_rajchert.md) | TypeScript y FP | 3-4hs |  
+| [Angel Java Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_mentor.md) | Machine Learning | 4-6hs |
+| Se busca | React | NA |
 
 ### Presentación de participantes
 
