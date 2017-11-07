@@ -19,4 +19,4 @@ Hablando de los hangouts o videollamadas, puedo los dias de semana despues de la
 horas isn ningun problema.
 
 #### ¿Cuanta disponibilidad semanal tendrías?
-Dias de semana despues de las 14, y los fines de semana en cualquier horario.
+20 hs semanales aprox.
