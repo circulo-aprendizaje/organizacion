@@ -19,4 +19,4 @@ En la semana después de las 18hs.
 En Buenos Aires o remoto.
 
 ##¿Cuanta disponibilidad semanal tendrías?
-Presencial 1 vez por semana.
+4hs/8hs distribuidas en la semana.
