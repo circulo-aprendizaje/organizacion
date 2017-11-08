@@ -70,3 +70,4 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 | [Enzo Perez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/enzoPerez.md) | React y Node | 10 - 20 hs |
 | [Diego Calderón](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/diego_calderon.md) | FP y TS | 4-8hs |
 | [Mario Ojeda](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mario_ojeda.md) | ML, FP y Node | 4-6hs |
+| [Daniel Gómez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/daniel_gomez.md) | ML | 4-8hs |
