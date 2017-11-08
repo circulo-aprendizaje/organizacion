@@ -71,3 +71,4 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 | [Diego Calderón](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/diego_calderon.md) | FP y TS | 4-8hs |
 | [Mario Ojeda](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mario_ojeda.md) | ML, FP y Node | 4-6hs |
 | [Esteban Yañez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/teban.md) | FP y TS | 4-8hs |
+| [Daniel Gómez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/daniel_gomez.md) | ML | 4-8hs |
