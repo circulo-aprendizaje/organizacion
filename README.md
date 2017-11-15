@@ -44,12 +44,24 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 
 > Aclaración, podes poner más de un mensaje como mentor y como participante!
 
+## Circulos ya armados
+### TypeScript y programación funcional
+| Participante   |
+| ------------- | 
+| [Hernan Rajchert (mentor)](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/hernan_rajchert.md) |  
+| [Alan Campora](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/alancampora.md)  |
+| [Claudio Zurita](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/claudio_zurita.md)   |
+| [Diego Calderón](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/diego_calderon.md) |
+| [Esteban Yañez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/teban.md) |
+| [Florencia Azd](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/florencia-azd.md) | 
+| [Norman Perrin](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/norman_perrin.md) | 
+| [Pablo Mescher](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/pablo_mescher.md) | 
+
 ## Mensajes
 
 ### Propuestas de círculos
 | Mentor  | Tema Propuesto | Disponibilidad Semanal en hs |
 | ------------- | ------------- | ------------- |
-| [Hernan Rajchert](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/hernan_rajchert.md) | TypeScript y FP | 3-4hs |  
 | [Angel Java Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_mentor.md) | Machine Learning | 4-6hs |
 | [Mateo Silguero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mateo-silguero_mentor.md) | React | 3-4hs |
 | [Martin Valdes de Leon](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/martin_valdes_de_leon.md) | FP | 4-6hs |
@@ -58,21 +70,14 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 
 | Participante  | Tema de interes | Disponibilidad Semanal en hs |
 | ------------- | ------------- | ------------- |
-| [Alan Campora](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/alancampora.md)  | FP en Js  | NA |
 | [Angel Java Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_aprendiz.md) | React | 4-6hs |
-| [Claudio Zurita](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/claudio_zurita.md)  | Paradigmas y Frameworks  | 12-20hs |
 | [Daniel Gómez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/daniel_gomez.md) | ML | 4-8hs |
-| [Diego Calderón](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/diego_calderon.md) | FP y TS | 4-8hs |
 | [Enzo Perez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/enzoPerez.md) | React y Node | 10 - 20 hs |
-| [Esteban Yañez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/teban.md) | FP y TS | 4-8hs |
-| [Florencia Azd](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/florencia-azd.md) | FP y TS | NA |
 | [Karen Serfati](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/keyserfati.md) | FP | 4hs |
 | [Lorenzo Palmes](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/lpalmes.md) | FP | NA |
 | [Mario Ojeda](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mario_ojeda.md) | ML, FP y Node | 4-6hs |
 | [Nataniel Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/nataniel_lopez.md) | Frameworks | NA |
-| [Norman Perrin](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/norman_perrin.md) | FP y TS | 3-6hs |
 | [Pablo Cazes](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/pablo_cazes.md) | React y Devops tools | 3-4hs |
-| [Pablo Mescher](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/pablo_mescher.md) | Js, TS y Node  | 2hs |
 
 
 
