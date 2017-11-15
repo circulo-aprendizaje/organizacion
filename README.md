@@ -52,6 +52,7 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 | [Hernan Rajchert](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/hernan_rajchert.md) | TypeScript y FP | 3-4hs |  
 | [Angel Java Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_mentor.md) | Machine Learning | 4-6hs |
 | [Mateo Silguero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mateo-silguero_mentor.md) | React | 3-4hs |
+| [Martin Valdes de Leon](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/martin_valdes_de_leon.md) | FP | 4-6hs |
 
 ### Presentación de participantes
 
