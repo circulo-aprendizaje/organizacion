@@ -1,4 +1,4 @@
-#### Daniel Gómez
+#### Agustin Polo
 
 #### ¿Querés participar como mentor o estudiante?
 
