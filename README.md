@@ -74,6 +74,7 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 | [Daniel Gómez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/daniel_gomez.md) | ML | 4-8hs |
 | [Enzo Perez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/enzoPerez.md) | React y Node | 10 - 20 hs |
 | [Gustavo Olmedo](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/gustavo_olmedo.md) | ML, FP , React y Node | 20 - 25 hs |
+| [Hernan Pieroni](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/hernan_pieroni.md) | FP, TypeScript | 4-6hs |
 | [Juan Bono](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/juanbono.md) | FP | 4-6hs |
 | [Karen Serfati](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/keyserfati.md) | FP | 4hs |
 | [Lorenzo Palmes](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/lpalmes.md) | FP | NA |
