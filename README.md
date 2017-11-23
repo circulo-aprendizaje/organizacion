@@ -27,35 +27,35 @@ Es importante que el mensaje de presentación contenga la siguiente información
 * ¿Cuanta disponibilidad semanal tendrías?
 
 #### Mentores
-Si tenés conocimientos que te gustaría compartir podés participar como mentor/a! 
+Si tenés conocimientos que te gustaría compartir podés participar como mentor/a!
 
 Para proponer un nuevo círculo de aprendizaje te pedimos que desarrolles un texto con la siguiente información:
 
 * Temática principal
 * Conocimientos previos requeridos
 * Modalidad online o presencial
-* Disponibilidad horaria 
+* Disponibilidad horaria
 
 > Aclaración, podes poner más de un mensaje como mentor y como participante!
 
 #### Participantes
 
-Para participar y poder conocernos mejor te pedimos que desarrolles un texto en donde detalles qué te gustaría aprender. 
+Para participar y poder conocernos mejor te pedimos que desarrolles un texto en donde detalles qué te gustaría aprender.
 
 > Aclaración, podes poner más de un mensaje como mentor y como participante!
 
 ## Circulos ya armados
 ### TypeScript y programación funcional
 | Participante   |
-| ------------- | 
+| ------------- |
 | [Hernan Rajchert (mentor)](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/hernan_rajchert.md) |  
 | [Alan Campora](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/alancampora.md)  |
 | [Claudio Zurita](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/claudio_zurita.md)   |
 | [Diego Calderón](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/diego_calderon.md) |
 | [Esteban Yañez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/teban.md) |
-| [Florencia Azd](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/florencia-azd.md) | 
-| [Norman Perrin](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/norman_perrin.md) | 
-| [Pablo Mescher](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/pablo_mescher.md) | 
+| [Florencia Azd](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/florencia-azd.md) |
+| [Norman Perrin](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/norman_perrin.md) |
+| [Pablo Mescher](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/pablo_mescher.md) |
 
 ## Mensajes
 
@@ -81,9 +81,4 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 | [Mauro Carrero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mauro_carrero.md) | FP | 4-6hs |
 | [Nataniel Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/nataniel_lopez.md) | Frameworks | NA |
 | [Pablo Cazes](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/pablo_cazes.md) | React y Devops tools | 3-4hs |
-
-
-
-
-
-
+| [Diego Calderón](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/diego_calderon.md) | FP | 5hs |
