@@ -78,6 +78,7 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 | [Hernan Pieroni](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/hernan_pieroni.md) | FP, TypeScript | 4-6hs |
 | [Juan Bono](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/juanbono.md) | FP | 4-6hs |
 | [Karen Serfati](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/keyserfati.md) | FP | 4hs |
+| [Laura Ramos](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/lauraramos.md) | FP + typescript | 4hs |
 | [Lorenzo Palmes](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/lpalmes.md) | FP | NA |
 | [Mario Ojeda](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mario_ojeda.md) | ML, FP y Node | 4-6hs |
 | [Mauro Carrero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mauro_carrero.md) | FP | 4-6hs |
