@@ -44,18 +44,15 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 
 > Aclaración, podes poner más de un mensaje como mentor y como participante!
 
-## Circulos ya armados
-* [TypeScript y programación funcional](https://github.com/circulo-aprendizaje/fp-ts)
-
-
 ## Mensajes
 
-### Propuestas de círculos
-| Mentor  | Tema Propuesto | Disponibilidad Semanal en hs |
+### Círculos
+| Nombre  | Mentor | Disponibilidad Semanal en hs |
 | ------------- | ------------- | ------------- |
-| [Angel Java Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_mentor.md) | [Machine Learning](https://github.com/circulo-aprendizaje/machine-learning) | 4-6hs |
-| [Mateo Silguero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mateo-silguero_mentor.md) | [React](https://github.com/circulo-aprendizaje/react) | 3-4hs |
-| [Martin Valdes de Leon](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/martin_valdes_de_leon.md) | [FP](https://github.com/circulo-aprendizaje/programacion-funcional) | 4-6hs |
+|  [TypeScript y programación funcional](https://github.com/circulo-aprendizaje/fp-ts) | [Hernán Rajchert](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/hernan_rajchert.md) | 4-6hs |
+| [Machine Learning](https://github.com/circulo-aprendizaje/machine-learning) | [Angel Java Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_mentor.md) |  4-6hs |
+| [React](https://github.com/circulo-aprendizaje/react) | [Mateo Silguero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mateo-silguero_mentor.md) |  3-4hs |
+| [FP](https://github.com/circulo-aprendizaje/programacion-funcional) |[Martin Valdes de Leon](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/martin_valdes_de_leon.md) | 4-6hs |
 
 ### Presentación de participantes
 
