@@ -45,26 +45,17 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 > Aclaración, podes poner más de un mensaje como mentor y como participante!
 
 ## Circulos ya armados
-### TypeScript y programación funcional
-| Participante   |
-| ------------- |
-| [Hernan Rajchert (mentor)](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/hernan_rajchert.md) |  
-| [Alan Campora](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/alancampora.md)  |
-| [Claudio Zurita](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/claudio_zurita.md)   |
-| [Diego Calderón](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/diego_calderon.md) |
-| [Esteban Yañez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/teban.md) |
-| [Florencia Azd](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/florencia-azd.md) |
-| [Norman Perrin](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/norman_perrin.md) |
-| [Pablo Mescher](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/pablo_mescher.md) |
+* [TypeScript y programación funcional](https://github.com/circulo-aprendizaje/fp-ts)
+
 
 ## Mensajes
 
 ### Propuestas de círculos
 | Mentor  | Tema Propuesto | Disponibilidad Semanal en hs |
 | ------------- | ------------- | ------------- |
-| [Angel Java Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_mentor.md) | Machine Learning | 4-6hs |
-| [Mateo Silguero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mateo-silguero_mentor.md) | React | 3-4hs |
-| [Martin Valdes de Leon](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/martin_valdes_de_leon.md) | FP | 4-6hs |
+| [Angel Java Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_mentor.md) | [Machine Learning](https://github.com/circulo-aprendizaje/machine-learning) | 4-6hs |
+| [Mateo Silguero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mateo-silguero_mentor.md) | [React](https://github.com/circulo-aprendizaje/react) | 3-4hs |
+| [Martin Valdes de Leon](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/martin_valdes_de_leon.md) | [FP](https://github.com/circulo-aprendizaje/programacion-funcional) | 4-6hs |
 
 ### Presentación de participantes
 
