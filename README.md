@@ -74,3 +74,5 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 | [Nataniel Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/nataniel_lopez.md) | Frameworks | NA |
 | [Pablo Cazes](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/pablo_cazes.md) | React y Devops tools | 3-4hs |
 | [Diego Calderón](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/diego_calderon.md) | FP | 5hs |
+| [Luis Ventocilla](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/luis_ventocilla.md) | FP, React,
+Typescript| 4hs - 8 hrs|
