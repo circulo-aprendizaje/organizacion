@@ -54,7 +54,7 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 | [React](https://github.com/circulo-aprendizaje/react) | [Mateo Silguero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mateo-silguero_mentor.md) |  3-4hs |
 | [FP](https://github.com/circulo-aprendizaje/programacion-funcional) |[Martin Valdes de Leon](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/martin_valdes_de_leon.md) | 4-6hs |
 
-### Presentación de participantes
+### Presentación de participantes buscando círculos
 
 | Participante  | Tema de interes | Disponibilidad Semanal en hs |
 | ------------- | ------------- | ------------- |
