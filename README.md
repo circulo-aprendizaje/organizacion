@@ -71,7 +71,6 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 | [Laura Ramos](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/lauraramos.md) | FP + typescript | 4hs |
 | [Lorenzo Palmes](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/lpalmes.md) | FP | NA |
 | [Luis Ventocilla](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/luis_ventocilla.md) | FP, React, Typescript| 4hs - 8 hrs|
-
 | [Mario Ojeda](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mario_ojeda.md) | ML, FP y Node | 4-6hs |
 | [Mauro Carrero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mauro_carrero.md) | FP | 4-6hs |
 | [Nataniel Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/nataniel_lopez.md) | Frameworks | NA |
