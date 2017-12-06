@@ -1,4 +1,4 @@
-+#### ¿Querés participar como mentor o estudiante?
+#### ¿Querés participar como mentor o estudiante?
 Estudiante.
 
 #### ¿Qué te gustaría aprender/enseñar?
