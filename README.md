@@ -61,6 +61,7 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 | [Agustin Polo](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/agustin_polo.md) | React, FP, Typescript | 3-4hs |
 | [Angel Java Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_aprendiz.md) | React | 4-6hs |
 | [Daniel Gómez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/daniel_gomez.md) | ML | 4-8hs |
+| [Diego Borda](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/diego_borda.md) | FP | 4-6hs |
 | [Diego Calderón](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/diego_calderon.md) | FP | 5hs |
 | [Enzo Perez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/enzoPerez.md) | React y Node | 10 - 20 hs |
 | [Gustavo Olmedo](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/gustavo_olmedo.md) | ML, FP , React y Node | 20 - 25 hs |
@@ -76,4 +77,4 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 | [Mauro Carrero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mauro_carrero.md) | FP | 4-6hs |
 | [Nataniel Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/nataniel_lopez.md) | Frameworks | NA |
 | [Pablo Cazes](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/pablo_cazes.md) | React y Devops tools | 3-4hs |
-| [Diego Borda](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/diego_borda.md) | FP | 4-6hs |
+
