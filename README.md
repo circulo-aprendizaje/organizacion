@@ -76,3 +76,4 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 | [Mauro Carrero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mauro_carrero.md) | FP | 4-6hs |
 | [Nataniel Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/nataniel_lopez.md) | Frameworks | NA |
 | [Pablo Cazes](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/pablo_cazes.md) | React y Devops tools | 3-4hs |
+| [Pablo Guillama](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/pablo_guillama.md) | FP | 4-6hs |
