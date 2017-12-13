@@ -8,6 +8,14 @@ Por otro lado, para aprender también se necesita practicar, por lo que es desea
 
 El contenido teórico debería ser "curado" por el/los mentores y luego subido con una cuenta compartida a medium, youtube o github (según el tipo de contenido) y bajo la licencia Creative Commons. Los proyectos, por otro lado, pueden ser autogestionados y con la licencia que se desee.
 
+## Círculos
+| Nombre  | Mentor | Disponibilidad Semanal en hs |
+| ------------- | ------------- | ------------- |
+|  [TypeScript y programación funcional](https://github.com/circulo-aprendizaje/fp-ts) | [Hernán Rajchert](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/hernan_rajchert.md) | 4-6hs |
+| [Machine Learning](https://github.com/circulo-aprendizaje/machine-learning) | [Angel Java Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_mentor.md) |  4-6hs |
+| [React](https://github.com/circulo-aprendizaje/react) | [Mateo Silguero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mateo-silguero_mentor.md) |  3-4hs |
+| [FP](https://github.com/circulo-aprendizaje/programacion-funcional) |[Martin Valdes de Leon](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/martin_valdes_de_leon.md) | 4-6hs |
+
 ## Cómo participar
 Podés participar en algún círculo activo o crear uno nuevo! A continuación se encuentra la información necesaria para poder crear las presentaciones como futuros mentores o participantes.
 
@@ -44,17 +52,8 @@ Para participar y poder conocernos mejor te pedimos que desarrolles un texto en 
 
 > Aclaración, podes poner más de un mensaje como mentor y como participante!
 
-## Mensajes
+## Presentación de participantes buscando círculos
 
-### Círculos
-| Nombre  | Mentor | Disponibilidad Semanal en hs |
-| ------------- | ------------- | ------------- |
-|  [TypeScript y programación funcional](https://github.com/circulo-aprendizaje/fp-ts) | [Hernán Rajchert](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/hernan_rajchert.md) | 4-6hs |
-| [Machine Learning](https://github.com/circulo-aprendizaje/machine-learning) | [Angel Java Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_mentor.md) |  4-6hs |
-| [React](https://github.com/circulo-aprendizaje/react) | [Mateo Silguero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mateo-silguero_mentor.md) |  3-4hs |
-| [FP](https://github.com/circulo-aprendizaje/programacion-funcional) |[Martin Valdes de Leon](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/martin_valdes_de_leon.md) | 4-6hs |
-
-### Presentación de participantes buscando círculos
 
 | Participante  | Tema de interes | Disponibilidad Semanal en hs |
 | ------------- | ------------- | ------------- |
