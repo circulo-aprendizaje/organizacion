@@ -6,11 +6,11 @@ Estudiante
 
 
 ### ¿Qué te gustaría aprender/enseñar? (parte teórica) 
-Me gustaría aprender programación funcional y mejorar mis conocimientos en TypeScript.
+Me gustaría aprender programación funcional y mejorar mis conocimientos en TypeScript. Otra cosa que me gustaría aprender es React.
 
 
 ### ¿Qué te gustaría hacer? (parte práctica) 
-Realizar algún proyecto open-source o sumarme a algún proyecto para poder aportar. Si el proyecto tiene algún beneficio social, mejor.
+Realizar algún proyecto open-source o sumarme a algún proyecto para poder aportar. Si el proyecto tiene algún beneficio social, mejor. 
 
 
 ### ¿Cómo te imaginas las interacciones con el grupo? 
